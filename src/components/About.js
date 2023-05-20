@@ -1,5 +1,7 @@
+import { render } from "@testing-library/react";
 import React from "react";
 import { image } from "../data/user";
+
 
 function About() {
   return (
